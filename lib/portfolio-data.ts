@@ -3,7 +3,7 @@ export const profile = {
   role: 'Software Developer · Data Science & AI',
   tagline:
     'I build reliable Java and Python software, turn messy data into clear insights, and bring AI tools into everyday workflows.',
-  email: 'hello@masingapl.dev',
+  email: 'lifapmasinga@gmail.com',
   location: 'South Africa',
   availability: 'Open to junior roles, internships and freelance projects',
   cvPath: '/cv/Masinga-PL-CV.pdf',
